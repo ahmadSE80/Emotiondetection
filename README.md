@@ -6,7 +6,7 @@ The Face Analysis & Beauty Recommendation System is an AI-powered application th
 
 The system uses:
 
-* MobileNetV2 for Face Shape Classification
+* EfficientNet-B0 for Face Shape Classification
 * MediaPipe Face Mesh for Facial Landmark Detection
 * OpenCV for Image Processing
 * Streamlit for Interactive User Interface
